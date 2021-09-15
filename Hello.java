@@ -1,4 +1,4 @@
 public  class Hello	{
 System.out.print("Hello there");
-System.out.print("A");
+System.out.print("B");
 }
