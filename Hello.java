@@ -1,3 +1,4 @@
 public  class Hello	{
-print("Hello there");
+System.out.print("Hello there");
+System.out.print("A");
 }
